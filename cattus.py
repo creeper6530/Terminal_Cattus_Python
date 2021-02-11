@@ -1,4 +1,4 @@
-#Tento program je něco jako "programovací jazyk", nebo spíše terminál.
+#Tento program je můj vlastní terminál napsaný v Pythonu.
 #Jmenuje se Cattus.
 
 #_____________________________________
@@ -14,8 +14,8 @@ from zadání_příkazu import zadání
 print("Vítej v terminálu Cattus!")
 print("Verze: 1.0")
 datum = str(datetime.datetime.now())
-print("Datum: " + datum)
-print("Formát data: Rok-měsíc-den hodina:minuta:sekunda.mikrosekunda")
+print("Aktuální datum a čas: " + datum)
+print("Formát data a času: Rok-měsíc-den hodina:minuta:sekunda.mikrosekunda")
 
 #Smyčka zadávání příkazů:
 while True:
