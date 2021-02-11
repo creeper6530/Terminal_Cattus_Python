@@ -1,4 +1,5 @@
-[Hlavní stránka](./index.html)
+# Hlavní menu:
+* [Hlavní stránka](./index.html)
 
 
 Vítejte na stránce pro pomoc.
