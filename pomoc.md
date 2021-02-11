@@ -1,5 +1,6 @@
 # Hlavní menu:
 * [Hlavní stránka](./index.html)
+* [Návody](./návody.html)
 
 
 Vítejte na stránce pro pomoc.
