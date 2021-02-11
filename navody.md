@@ -29,7 +29,8 @@ Vítejte na stránce pro návody. Najdete zde všechny potřebné návody pro te
 
 1. Nainstalujte terminál podle návodu na této stránce.
 1. Přesuňte stažený `.exe` soubor do složky `C:\Windows`
-> Malé okénko: Přesouváte to do té složky proto, aby jste ten `.exe` soubor měli v globální proměnné `PATH`.   
+> Malé okénko: Přesouváte to do té složky proto, aby jste ten `.exe` soubor měli v globální proměnné `PATH`.
+> 
 > V tomto návodu jsem se inspiroval jiným návodem, který jsem si ozkoušel.
 > 
 > Více o globální proměnné `PATH` vám řekne odbornější stránka.
