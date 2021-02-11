@@ -4,7 +4,8 @@
 
 
 Vítejte na stránce pro pomoc.
-Najdete zde originální nápovědu z terminálu Cattus.
+Najdete zde lehce poupravenou nápovědu z terminálu Cattus.
+Poupravenou proto, že jsem byl nucen změnit způsob, jakým řádkuji.
 
 # Přepis nápovědy:
 Vítej v nápovědě pro terminál Cattus!
@@ -12,17 +13,24 @@ Vítej v nápovědě pro terminál Cattus!
 Seznam příkazů:
 
 
-tisk----------------Vytiskne daný argument.
---------------------(Poznámka pro trouby: 'vytiskne' znamená vypíše do terminálu na další řádek.)
-smazat--------------Trvale smaže daný soubor. Soubor ke smazání deklaruješ argumentem.
---------------------Nezapomeň přidat příponu.
-sm-slozku-----------Smaže složku. Z bespečnostních důvodů maže jen prázdné složky.
-obsah-sl------------Vypíše obsah složky, kde program právě pracuje.
---------------------Příkaz ti dá na výběr, jestli chceš do výpisu zahrnout i složky.
-akt-adr-------------Vypíše umístění, kde program právě pracuje.
-zm-adr--------------Změní umístění, kde program právě pracuje.
---------------------Pokud chceš o úroveň výše, nastav první argument jako ".." bez uvozovek.
-pomoc---------------Vypíše tuto pomoc.
-exit----------------Okamžitě ukončí program.
+tisk: Vytiskne daný argument.
+(Poznámka pro trouby: 'vytiskne' znamená vypíše do terminálu na další řádek.)
+
+smazat: Trvale smaže daný soubor. Soubor ke smazání deklaruješ argumentem.
+Nezapomeň přidat příponu.
+
+sm-slozku: Smaže složku. Z bespečnostních důvodů maže jen prázdné složky.
+
+obsah-sl:Vypíše obsah složky, kde program právě pracuje.
+Příkaz ti dá na výběr, jestli chceš do výpisu zahrnout i složky.
+
+akt-adr: Vypíše umístění, kde program právě pracuje.
+
+zm-adr: Změní umístění, kde program právě pracuje.
+Pokud chceš o úroveň výše, nastav první argument jako ".." bez uvozovek.
+
+pomoc: Vypíše tuto pomoc.
+
+exit: Okamžitě ukončí program.
 
 Terminál Cattus lze vždy okamžitě ukončit klávesovou zkratkou Ctrl+C.
