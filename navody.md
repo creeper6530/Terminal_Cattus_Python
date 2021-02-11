@@ -19,7 +19,8 @@ Vítejte na stránce pro návody. Najdete zde všechny potřebné návody pro te
 1. Přesuňte stažený `.exe` soubor do umístění, kde ho můžete jednoduše spustit.
 1. Spusťte stažený `.exe` soubor.
 1. Pokud bude program zachycen antivirovým programem, ignorujte to.
-> Malé okénko: Hodně antivirů bude tento program zachytávat jako nebezpečný, protože program není digitálně podepsaný. Ale kvůli tomu, že to kompiluji programem PyInstaller, tak pro mě není možné to podepisovat.   
+> Malé okénko: Hodně antivirů bude tento program zachytávat jako nebezpečný, protože program není digitálně podepsaný. Ale kvůli tomu, že to kompiluji programem PyInstaller, tak pro mě není možné to podepisovat.
+> 
 > Pokud bude program zachycen antiransomwarovým programem, můžete to taky ignorovat, protože program má sám do sebe zabalené všechny moduly, na kterých je závislý, a těch je hodně. Ale díky tomu je jednodušší se v zdrojovém kódu orientovat.
 > 
 > Pokud nevěříte tomu, co jsem vám teď řekl, nevím, proč si čtete tento návod. Předpokládám, že když mi nevěříte, tak si to instalovat nebudete ;-)
