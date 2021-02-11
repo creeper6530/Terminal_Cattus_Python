@@ -15,7 +15,7 @@ Vítejte na stránce pro pomoc.
 Najdete zde lehce poupravenou nápovědu z terminálu Cattus.
 Poupravenou proto, že jsem byl nucen změnit způsob, jakým řádkuji.
 
-# Přepis nápovědy:
+## Přepis nápovědy:
 Vítej v nápovědě pro terminál Cattus!
     
 Seznam příkazů:
