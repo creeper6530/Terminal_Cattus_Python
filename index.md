@@ -1,5 +1,5 @@
 Vítejte na webové stránce pro terminál Cattus!
 
 # Hlavní menu:
-* [pomoc](./pomoc.html)
-* [návody](./návody.html)
+* [Pomoc](./pomoc.html)
+* [Návody](./návody.html)
