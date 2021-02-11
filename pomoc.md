@@ -1,4 +1,6 @@
-# Hlavní menu:
+# Pomoc
+
+### Hlavní menu:
 * [Hlavní stránka](./index.html)
 * [Návody](./návody.html)
 
