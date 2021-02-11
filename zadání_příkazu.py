@@ -57,4 +57,4 @@ def zadání():
     
     
     else:
-        print("Neznámý příkaz.")
+        print("Neznámý příkaz. Pokžij příkaz 'pomoc' pro nápovědu.")
