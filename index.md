@@ -6,7 +6,7 @@ Vítejte na webové stránce pro terminál Cattus!
 <nav>
 <ul>
 <li><a href="pomoc.html">Pomoc</a></li>
-<li><a href="návody.html">Návody</a></li>
+<li><a href="navody.html">Návody</a></li>
 </ul>
 </nav>
 
