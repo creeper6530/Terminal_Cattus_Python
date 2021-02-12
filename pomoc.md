@@ -39,6 +39,6 @@ Pokud chceš o úroveň výše, nastav první argument jako ".." bez uvozovek.
 
 pomoc: Vypíše tuto pomoc.
 
-exit: Okamžitě ukončí program.
+exit: Okamžitě ukončí program. Lze také použít příkaz "konec".
 
 Terminál Cattus lze vždy okamžitě ukončit klávesovou zkratkou Ctrl+C.
