@@ -29,7 +29,7 @@ Nezapomeň přidat příponu.
 
 sm-slozku: Smaže složku. Z bespečnostních důvodů maže jen prázdné složky.
 
-obsah-sl:Vypíše obsah složky, kde program právě pracuje.
+obsah-sl: Vypíše obsah složky, kde program právě pracuje.
 Příkaz ti dá na výběr, jestli chceš do výpisu zahrnout i složky.
 
 akt-adr: Vypíše umístění, kde program právě pracuje.
