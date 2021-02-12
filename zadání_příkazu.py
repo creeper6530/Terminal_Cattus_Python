@@ -45,6 +45,10 @@ def zadání():
     
     elif comm == "exit":
         exit() #Okamžitě ukončí program. Na tom není nic těžkého :-)
+
+    
+    elif comm == "konec":
+        exit() #Okamžitě ukončí program. Na tom není nic těžkého :-)
     
     
     elif comm == "akt-adr":
