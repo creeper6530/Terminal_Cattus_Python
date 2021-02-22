@@ -63,7 +63,6 @@ def zadání():
         zm_adresář(adr) #Zavolá funkci "zm_adresář" naimportovanou výše v bloku programu importující příkazy s argumentem v proměnné adr.
    
     elif comm == "zm-uzv":
-        elif comm == "zm-uzv":
         if admin == True:
             admin = False
         else:
