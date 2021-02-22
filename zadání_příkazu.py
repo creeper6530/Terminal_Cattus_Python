@@ -4,6 +4,9 @@
 #_______________________________
 
 
+#Import nezbytných knihoven
+import os
+
 #Import příkazů
 from tisk import tisk
 from smazat import smazat
@@ -12,12 +15,16 @@ from obsah_slozky import obsh_slozky
 from pomoc import pomoc
 from akt_adr import adresář
 from zm_adr import zm_adresář
+from kdo_jsem import kdojsemja
 
 #Deklarace, zda je uživatel admin
-admin = False
+os.environ['admin'] = "False"
 
 #Deklarace funkce
 def zadání():
+    #Získání admin stavu
+    admin = os.getenv('admin')
+
     #Zadání příkazu
     print()
     comm = input(">>> ")
@@ -61,12 +68,15 @@ def zadání():
     elif comm == "zm-adr":
         adr = input("Zadejte první argument: ")
         zm_adresář(adr) #Zavolá funkci "zm_adresář" naimportovanou výše v bloku programu importující příkazy s argumentem v proměnné adr.
-   
+
     elif comm == "zm-uzv":
-        if admin == True:
-            admin = False
+        if admin == "True":
+            os.environ['admin'] = "False"
         else:
-            admin = True  
+            os.environ['admin'] = "True"
+
+    elif comm == "kdojsem":
+        kdojsemja(admin) #Zavolá funkci "kdojsemja" naimportovanou výše v bloku programu importující příkazy s argumentem v proměnné admin.
     
     else:
         print("Neznámý příkaz. Pokžij příkaz 'pomoc' pro nápovědu.")
