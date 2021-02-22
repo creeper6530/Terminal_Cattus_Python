@@ -13,6 +13,9 @@ from pomoc import pomoc
 from akt_adr import adresář
 from zm_adr import zm_adresář
 
+#Deklarace, zda je uživatel admin
+admin = False
+
 #Deklarace funkce
 def zadání():
     #Zadání příkazu
@@ -58,7 +61,9 @@ def zadání():
     elif comm == "zm-adr":
         adr = input("Zadejte první argument: ")
         zm_adresář(adr) #Zavolá funkci "zm_adresář" naimportovanou výše v bloku programu importující příkazy s argumentem v proměnné adr.
-    
+   
+    elif comm == "zm-uzv":
+        zm_uzivatele(admin)    
     
     else:
         print("Neznámý příkaz. Pokžij příkaz 'pomoc' pro nápovědu.")
