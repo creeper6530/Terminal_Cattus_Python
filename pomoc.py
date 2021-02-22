@@ -20,6 +20,9 @@ def pomoc():
     akt-adr             Vypíše umístění, kde program právě pracuje.
     zm-adr              Změní umístění, kde program právě pracuje.
                         Pokud chceš o úroveň výše, nastav první argument jako ".." bez uvozovek.
+    zm-uzv              Přepne aktuálního uživatele.
+                        Přepíná mezi standardním a priveligiovaným uživatelem.
+                        Výchozí uživatel je standardní.
     pomoc               Vypíše tuto pomoc.
     exit                Okamžitě ukončí program. Lze také použít příkaz "konec".
 
