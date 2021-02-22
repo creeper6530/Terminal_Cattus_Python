@@ -4,6 +4,7 @@
 #_______________________________
 
 
+#Deklarace funkce
 def zm_uzivatele(admin):
     if admin == True:
         admin = False
