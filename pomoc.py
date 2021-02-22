@@ -23,6 +23,7 @@ def pomoc():
     zm-uzv              Přepne aktuálního uživatele.
                         Přepíná mezi standardním a priveligiovaným uživatelem.
                         Výchozí uživatel je standardní.
+    kdojsem             Vypíše, jaký uživatel se aktuálně používá.
     pomoc               Vypíše tuto pomoc.
     exit                Okamžitě ukončí program. Lze také použít příkaz "konec".
 
