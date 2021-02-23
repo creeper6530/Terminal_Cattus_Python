@@ -1,5 +1,8 @@
 # Changelog (zápis všech změn v programu):
 
+v1.2
+* Přidán sendvičový easter egg.
+
 v1.1
 * Přidán odkaz na nápovědu do informace o špatně zadaném příkazu.
 * Přidán příkaz "konec" jako alternativa příkazu "exit".
