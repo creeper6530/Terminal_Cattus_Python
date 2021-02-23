@@ -12,7 +12,7 @@ from zadání_příkazu import zadání
 
 #Info po startu
 print("Vítej v terminálu Cattus!")
-print("Verze: 1.1")
+print("Verze: 1.2")
 datum = str(datetime.datetime.now())
 print("Aktuální datum a čas: " + datum)
 print("Formát data a času: Rok-měsíc-den hodina:minuta:sekunda.mikrosekunda")
