@@ -78,5 +78,14 @@ def zadání():
     elif comm == "kdojsem":
         kdojsemja(admin) #Zavolá funkci "kdojsemja" naimportovanou výše v bloku programu importující příkazy s argumentem v proměnné admin.
     
+    elif comm == "Udělej mi sendvič":
+        if admin == "True":
+            print("Chceš šunkový?")
+        else:
+            print("Udělej si ho sám.")
+
+    elif comm == "sudo Udělej mi sendvič":
+        print("Chceš šunkový?")
+    
     else:
         print("Neznámý příkaz. Pokžij příkaz 'pomoc' pro nápovědu.")
