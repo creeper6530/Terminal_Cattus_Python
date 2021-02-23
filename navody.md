@@ -34,4 +34,4 @@ Vítejte na stránce pro návody. Najdete zde všechny potřebné návody pro te
 > V tomto návodu jsem se inspiroval jiným návodem, který jsem si ozkoušel.
 > 
 > Více o globální proměnné `PATH` vám řekne odbornější stránka.
-1. Spusťte `cmd.exe` nebo Powershell a zadejte do něj název `.exe` souboru.
+1. Spusťte `cmd.exe` nebo Powershell a zadejte do něj název `.exe` souboru (bez přípony).
